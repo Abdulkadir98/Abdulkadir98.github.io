@@ -1,0 +1,17 @@
+{
+	"projects": [
+		{
+			"name": "Syntax",
+			"description": "An android application that teaches programming languages like C, C++, Java, JavaScript, and Python. The app also provides helpful quizzes and tracks user's progress.",
+			"link": "",
+			"linkType": "Play store link"
+		},
+		{
+			"name": "Restaurant reviews",
+			"description": "A web app created as part of the project in Udacity's Mobile Web Specialist track.",
+			"link": "https://mws-restaurant-reviews.netlify.com/",
+			"linkType": "PWA link",
+			"github": "https://github.com/Abdulkadir98/mws-restaurant-stage-1"
+		}
+	]
+}

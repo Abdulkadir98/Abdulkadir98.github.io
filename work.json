@@ -1,0 +1,18 @@
+{
+	"work": [
+
+		{
+			"name": "Exchange",
+			"timespan": "DEC 2017 - Present",
+			"role": "Lead Software Engineer",
+			"link": "https://exchangetheapp.com/",
+			"description": "Exchange is a startup that provides assistance to students in colleges with their homework/assignments and one-to-one sessions to those who are looking for jobs in Software."
+		},
+		{
+			"name": "Volante",
+			"timespan": "JUN 2018",
+			"role": "Software Intern",
+			"description": "Volante is a fin-tech startup that provides business agility and solutions used by many notable banks across the world."
+		}
+	]
+}

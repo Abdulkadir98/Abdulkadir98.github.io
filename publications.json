@@ -1,0 +1,32 @@
+{
+	"posts": [
+		{
+			"name": "How to lint away your troubles in Sublime",
+			"description": "A guide to understand how linting works and how to maximize productivity in your projects.",
+			"link": "https://medium.freecodecamp.org/how-to-lint-away-your-troubles-in-sublime-c448a8896cf7",
+			"host": "Medium",
+			"hostLink": "https://medium.com/"
+		},
+		{
+			"name": "Android app that scans barcodes and recognizes text",
+			"description": "A walkthrough to build an android application that uses Firebse ML kit to scan barcodes and recognize text",
+			"link": "https://medium.com/@Abdulkadir98/android-app-that-scans-barcodes-and-recognizes-text-7072d0c0fde7",
+			"host": "Medium",
+			"hostLink": "https://medium.com/"
+		},
+		{
+			"name": "Android Recycler view",
+			"description": "A step-by-step guide on how to implement the Recycler view component in Android using CardViews.",
+			"link": "https://medium.com/@Abdulkadir98/android-recycler-view-using-card-view-6907672d722d",
+			"host": "Medium",
+			"hostLink": "https://medium.com/"
+		},
+		{
+			"name": "Android Sliding Tabs",
+			"description": "A step-by-step guide on how to implement the Sliding tabs with ViewPager in Android.",
+			"link": "https://medium.com/@Abdulkadir98/android-sliding-tabs-with-viewpager-851f9c996cb5",
+			"host": "Medium",
+			"hostLink": "https://medium.com/"
+		}
+	]
+}
