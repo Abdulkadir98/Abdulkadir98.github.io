@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1oPXCBxA6wLZ3CiV4CPcCwgDe1i8ACkvU/view?usp=sharing
 
-url: https://koppl.in/indigo
- your url: http://abdulkadir98.github.io
+#url: https://koppl.in/indigo
+your url: http://abdulkadir98.github.io
 
 permalink: /:title/
 
