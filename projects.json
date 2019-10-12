@@ -12,6 +12,13 @@
 			"link": "https://mws-restaurant-reviews.netlify.com/",
 			"linkType": "PWA link",
 			"github": "https://github.com/Abdulkadir98/mws-restaurant-stage-1"
+		},
+		{
+			"name": "Ford Maps",
+			"description": "An android application that allows the user to see their Facebook friend's location.",
+			"link": "",
+			"linkType": "Play store link",
+			"github": "https://github.com/Abdulkadir98/FordMaps"
 		}
 	]
 }
